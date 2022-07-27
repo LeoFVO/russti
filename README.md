@@ -1,11 +1,13 @@
 # russti
+
 Russti is a SSTI scanner for web application. Developed in Rust.
 
 ## Objectives
-- [ ] Make a CLI using clap.rs
-- [ ] Verbose output
-- [ ] Add .gitignore
-- [ ] Add ci/cd
+
+- [x] Make a CLI using clap.rs
+- [x] Verbose output
+- [x] Add .gitignore
+- [x] Add ci/cd
 - [ ] allow custom user-agent
 - [ ] allow custom headers
-- [ ] command executor or os-shelll like
+- [ ] command executor or os-shell like
